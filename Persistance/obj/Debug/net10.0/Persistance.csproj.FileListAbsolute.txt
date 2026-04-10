@@ -14,3 +14,5 @@ C:\Users\genti\OneDrive\Desktop\ProjektPrivat\RealEstate\Persistance\obj\Debug\n
 C:\Users\genti\OneDrive\Desktop\ProjektPrivat\RealEstate\Persistance\obj\Debug\net10.0\refint\Persistance.dll
 C:\Users\genti\OneDrive\Desktop\ProjektPrivat\RealEstate\Persistance\obj\Debug\net10.0\Persistance.pdb
 C:\Users\genti\OneDrive\Desktop\ProjektPrivat\RealEstate\Persistance\obj\Debug\net10.0\ref\Persistance.dll
+C:\Users\genti\OneDrive\Desktop\ProjektPrivat\RealEstate\Persistance\bin\Debug\net10.0\Application.dll
+C:\Users\genti\OneDrive\Desktop\ProjektPrivat\RealEstate\Persistance\bin\Debug\net10.0\Application.pdb
